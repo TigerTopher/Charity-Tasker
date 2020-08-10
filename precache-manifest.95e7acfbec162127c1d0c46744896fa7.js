@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5148eabac21b5272e5c5f8871be78f0d",
+    "revision": "1a1447a27ff27d068cacce3236064278",
     "url": "/Charity-Tasker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Charity-Tasker/static/css/2.c2d3b1f5.chunk.css"
   },
   {
-    "revision": "a7f0dcb70567132a0dd8",
+    "revision": "fddbc4f3672a6fd44a41",
     "url": "/Charity-Tasker/static/css/main.b422fa34.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Charity-Tasker/static/js/2.e71ec3c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7f0dcb70567132a0dd8",
-    "url": "/Charity-Tasker/static/js/main.b36edfed.chunk.js"
+    "revision": "fddbc4f3672a6fd44a41",
+    "url": "/Charity-Tasker/static/js/main.2e79890a.chunk.js"
   },
   {
     "revision": "226fb255fcacdd319ad9",
