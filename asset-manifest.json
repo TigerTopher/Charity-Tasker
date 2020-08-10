@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Charity-Tasker/static/css/main.b422fa34.chunk.css",
-    "main.js": "/Charity-Tasker/static/js/main.2e79890a.chunk.js",
-    "main.js.map": "/Charity-Tasker/static/js/main.2e79890a.chunk.js.map",
+    "main.js": "/Charity-Tasker/static/js/main.7e3485da.chunk.js",
+    "main.js.map": "/Charity-Tasker/static/js/main.7e3485da.chunk.js.map",
     "runtime-main.js": "/Charity-Tasker/static/js/runtime-main.3ee56b4f.js",
     "runtime-main.js.map": "/Charity-Tasker/static/js/runtime-main.3ee56b4f.js.map",
     "static/css/2.c2d3b1f5.chunk.css": "/Charity-Tasker/static/css/2.c2d3b1f5.chunk.css",
     "static/js/2.e71ec3c4.chunk.js": "/Charity-Tasker/static/js/2.e71ec3c4.chunk.js",
     "static/js/2.e71ec3c4.chunk.js.map": "/Charity-Tasker/static/js/2.e71ec3c4.chunk.js.map",
     "index.html": "/Charity-Tasker/index.html",
-    "precache-manifest.1739375c4a7e877d649e58cf81587f66.js": "/Charity-Tasker/precache-manifest.1739375c4a7e877d649e58cf81587f66.js",
+    "precache-manifest.5a82c62a5a2e855bb45fb5698a6c74df.js": "/Charity-Tasker/precache-manifest.5a82c62a5a2e855bb45fb5698a6c74df.js",
     "service-worker.js": "/Charity-Tasker/service-worker.js",
     "static/css/2.c2d3b1f5.chunk.css.map": "/Charity-Tasker/static/css/2.c2d3b1f5.chunk.css.map",
     "static/css/main.b422fa34.chunk.css.map": "/Charity-Tasker/static/css/main.b422fa34.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.c2d3b1f5.chunk.css",
     "static/js/2.e71ec3c4.chunk.js",
     "static/css/main.b422fa34.chunk.css",
-    "static/js/main.2e79890a.chunk.js"
+    "static/js/main.7e3485da.chunk.js"
   ]
 }
